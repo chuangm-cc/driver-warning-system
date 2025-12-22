@@ -23,6 +23,7 @@ Audio warnings are triggered only when dangerous conditions persist for a predef
 - CNN-based facial emotion recognition (7 classes)
 - Real-time drowsiness detection using eye-state analysis
 - Object detection and tracking for on-road hazards
+- Feature point tracking and Time-to-Collision (TTC) estimation
 - Embedded deployment on **Jetson Xavier AGX** (~5–6 FPS)
 - Combination of deep learning and classical computer vision techniques
 
