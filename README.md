@@ -14,7 +14,7 @@ The system consists of two main modules:
   - Drowsiness detection based on eye-state classification and temporal rules
 - **On-road Object Detection**
   - Detection of vehicles, pedestrians, and traffic-related objects
-  - Distance-based risk evaluation and object tracking
+  - Distance-based risk evaluation and object tracking.
 
 Audio warnings are triggered only when dangerous conditions persist for a predefined duration to reduce false alarms.
 
