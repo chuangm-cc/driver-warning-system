@@ -16,6 +16,8 @@ The system consists of two main modules:
   - Detection of vehicles, pedestrians, and traffic-related objects
   - Distance-based risk evaluation and object tracking.
 
+Achieved 4.5% for best TTC loss and 95% / 97% accuracy on FER2013 / RLDD.
+
 Audio warnings are triggered only when dangerous conditions persist for a predefined duration to reduce false alarms.
 
 ## Key Features
